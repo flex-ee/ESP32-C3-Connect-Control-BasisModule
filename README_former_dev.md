@@ -65,11 +65,10 @@ https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/
 
 Frequently used Git Commands
 ```
+git status 
 git add .
 git commit -m 'what have you done'
 git push
-
-git checkout 
 git pull
 ```
 https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
